@@ -28,5 +28,12 @@ O script espera uma tabela chamada `Contatos` com a seguinte estrutura de coluna
    ```bash
    pip install requests supabase python-dotenv
 
-## Como executar
+
+## VARIAVEIS DE AMBIENTE
+   SUPABASE_URL=sua_url_do_supabase
+   SUPABASE_KEY=sua_chave_anon_public
+   Z_API_INSTANCE=seu_id_da_instancia_zapi
+   Z_API_TOKEN=seu_token_da_zapi
+
+## Como Executar
    python desafio.py
