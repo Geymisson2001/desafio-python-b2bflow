@@ -27,3 +27,6 @@ O script espera uma tabela chamada `Contatos` com a seguinte estrutura de coluna
 2. Instale as dependências necessárias executando o comando no terminal:
    ```bash
    pip install requests supabase python-dotenv
+
+## Como executar
+   python desafio.py
